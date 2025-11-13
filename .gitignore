@@ -1,0 +1,13 @@
+.DS_Store
+*.out
+*.html
+coverage-report
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.env
+dist/
+build/
+
